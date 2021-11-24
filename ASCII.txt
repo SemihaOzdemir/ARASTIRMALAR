@@ -1,0 +1,31 @@
+ASCII YAZDIRMA KARAKTERLERİ:
+
+ASCII (İngilizce: American Standard Code for Information Interchange, Türkçe: Bilgi Değişimi İçin Amerikan Standart Kodlama Sistemi) Latin alfabesi üzerine kurulu 7 bitlik bir 
+karakter kümesidir. İlk kez 1963 yılında ANSI tarafından standart olarak sunulmuştur.
+
+ASCII'de 33 tane basılmayan kontrol karakteri ve 95 tane basılan karakter bulunur. Kontrol karakterleri metnin akışını kontrol eden, ekranda çıkmayan karakterlerdir. Basılan 
+karakterler ise ekranda görünen, okuduğumuz metni oluşturan karakterlerdir.
+
+GENİŞLETİLMİŞ ASCII YAZDIRMA KARAKTERLERİ:
+
+Genişletilmiş ASCII karakterler ek karakter talebini karşılar. Genişletilmiş ASCII'de yer alan 128 karaktere ek olarak 128 
+karakter daha bulunur, böylece toplam karakter sayısı 256'ya ulaşır. Bu ek karakterlerle bile, birçok dilde 256 karaktere katılamayan simgeler vardır. Bu nedenle, bölgesel karakter ve 
+simgeleri karşılamak için ASCII çeşitlemeleri vardır.
+
+ASCII YAZDIRMA DIŞI DENETİM KARAKTERLERİ:
+ASCII tablosundaki 0-31 arasındaki sayılar, yazıcı gibi bazı çevresel aygıtları denetlemek için kullanılan denetim karakterlerine atanmıştır. 
+
+ASCII’NİN ÇIKIŞ HİKAYESİ:
+1963’ten önce, bilgisayarlarda karakterleri temsil eden altmıştan fazla farklı yol olduğu için makineler birbirleriyle iletişim kuramıyordu. IBM gibi büyük şirketler bilgisayar 
+ağlarını büyütmeye başladıkça bu sorun daha da çok büyümeye başladı. aynı yıl içerisinde, ASCII bilgisayarlar arasında ortak bir dil olarak kullanılmaya başlandı. Fikir ise 
+şöyleydi,128 karakterin her birinin standart sayısal bir değere sahip olmasıydı.
+
+Mayıs 1961’de, bir IBM mühendisi olan Bob Benner, bilgisayar iletişimi için tek bir kod geliştirmek için Amerikan Ulusal Standartlar Enstitüsü’ne(ANSI) bir teklif gönderdi. ANSI,X3.4 
+adında bir komite oluşturdu ve bilgisayar üreticilerini John Auwaerter liderliğinde bir araya getirdi.Komite iki yıl boyunca,kodun işleyiş ve görünümünü tartıştılar.Komite üyeleri, 7 
+bit donanım limitlerinde çalışarak 128 karakter oluşturdular.
+
+Bir zamandan sonra ASCII’nin yetersiz kaldığı anlaşıldı ve 7 bitlik ASCII 8 bite genişletildi.
+
+ASCII kodu temel olarak bir klavyedeki karakterleri ve rakamları tanımlamak için kullanılmaya  başlandı.
+
+
